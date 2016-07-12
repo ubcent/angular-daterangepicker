@@ -1,6 +1,6 @@
 {
   "name": "angular-daterangepicker",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://github.com/fragaria/angular-daterangepicker",
   "authors": [
     "Filip Vařecha <filip.varecha@fragaria.cz>",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "bootstrap-daterangepicker": "2.0.0"
+    "bootstrap-daterangepicker": "2.1.23"
   },
   "main": "index.js",
   "devDependencies": {
